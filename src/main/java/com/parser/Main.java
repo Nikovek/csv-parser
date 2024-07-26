@@ -19,6 +19,7 @@ public class Main {
         double rightexpression2 = -(a2 * a2 * a2 * c2) + 1/(b2 * b2);
         double rezult2 = fraction2 + rightexpression2;
         System.out.println(rezult2);
+        System.out.println(rezult2);
         //3
         double x = 60;
         double y = 60;
